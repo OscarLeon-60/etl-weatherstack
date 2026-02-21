@@ -22,7 +22,7 @@ Aprender las 4 fases de un proceso ETL profesional:
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu_usuario/etl-weatherstack.git
+git clone https://github.com/OscarLeon-60/etl-weatherstack.git
 cd etl-weatherstack
 
 # Crear entorno virtual
