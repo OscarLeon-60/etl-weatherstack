@@ -92,7 +92,8 @@ etl-weatherstack/
 
 ## 👨‍💻 Autor
 
-Tu Nombre - Ingeniería de Sistemas - CORHUILA
+Allan Zapata - Ingeniería de Sistemas - CORHUILA
+Oscar Leon   - Ingeniería de Sistemas - CORHUILA
 
 ## 📝 Licencia
 
@@ -108,5 +109,5 @@ Si deseas mejorar este proyecto:
 5. Abre un Pull Request
 
 ---
-**Última actualización:** 21 de Febrero 2026
+**Última actualización:** 28 de Febrero 2026
 **Estado:** En desarrollo ✅
